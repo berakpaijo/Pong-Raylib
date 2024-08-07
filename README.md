@@ -8,9 +8,9 @@ This game is made using [`Raylib`](https://github.com/raysan5/raylib).
 A full installation guide is available [here](https://github.com/raysan5/raylib?tab=readme-ov-file#),
 
 or use these links
-###### [GNU / LINUX](https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux)
-###### [WINDOWS](https://github.com/raysan5/raylib/wiki/Working-on-Windows) 
-###### [MAC-OS / OS-X](https://github.com/raysan5/raylib/wiki/Working-on-macOS)
+######### [GNU / LINUX](https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux)
+######### [WINDOWS](https://github.com/raysan5/raylib/wiki/Working-on-Windows) 
+######### [MAC-OS / OS-X](https://github.com/raysan5/raylib/wiki/Working-on-macOS)
 
 ## Compiling the game
 ```bash
