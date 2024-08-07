@@ -34,7 +34,10 @@ Enjoy!
 # Things that need to be mentioned:
 ## Thanks to:
 [Programming With Nick on YouTube!](https://www.youtube.com/@programmingwithnick)
+
 [Catppucinn Color Pallete!](https://github.com/catppuccin/catppuccin)
+
 [Raylib! (of course, duh)](https://www.raylib.com/)
+
 ## Random note
 I started this project 'cause I'm tired of the Laravel project that my teacher gave me (I'm lazy lol). And I feel like it. Doing this project is like a dream come true to me, it's fun and flexible. And it's not hard... quite
