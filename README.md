@@ -1,5 +1,5 @@
 # Pong++ by LordPaijo
-[](https://github.com/berakpaijo/Pong-Raylib/blob/main/thumbnail/Pasted%20image.png)
+![](https://github.com/berakpaijo/Pong-Raylib/blob/main/thumbnail/Pasted%20image.png)
 
 This is a repository about my stupid ahh game of pong made in C++ using the library, [`Raylib`](https://github.com/raysan5/raylib).
 
