@@ -16,14 +16,14 @@ or use these links
 [MAC-OS / OS-X](https://github.com/raysan5/raylib/wiki/Working-on-macOS)
 
 ## Compiling the game
-```bash
+```zsh
 git clone https://github.com/berakpaijo/Pong-Raylib.git Pong++
 cd Pong++
 g++ main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o game
 ```
 ## Running the game
 You can run the game by executing the one you have compiled, or by executing the already included compiled one in `/output/`
-```bash
+```zsh
 ./game            #  your compiled file
 ./output/game     #  already included compiled file in /output/
 ```
